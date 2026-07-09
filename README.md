@@ -1,1 +1,1 @@
-# Repository hosting the i3S-MTA-STS config currently in testing
+# Repository hosting the tomkelly.xyz-MTA-STS config currently in testing
